@@ -1,0 +1,6 @@
+# data
+schema
+
+# environments
+.env
+.conda
