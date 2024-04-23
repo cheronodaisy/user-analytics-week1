@@ -7,3 +7,4 @@ It will also indicate the key profitable areas.
 A month's aggregation of xDR records - data sessions Detail Record.
 
 # Task 2 - User Overview analysis
+1. 
